@@ -1,0 +1,4002 @@
+[
+	{
+		"movie_id" : 5,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 5,
+		"company_id" : 59
+	},
+	{
+		"movie_id" : 11,
+		"company_id" : 1
+	},
+	{
+		"movie_id" : 11,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 12,
+		"company_id" : 3
+	},
+	{
+		"movie_id" : 13,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 14,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 14,
+		"company_id" : 2721
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 11239
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 119
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 14937
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 157
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 17513
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 201
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 2996
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 30268
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 321
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 4524
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 5358
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 53667
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 53668
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 53669
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 53670
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 53671
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 5755
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 591
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 5975
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 6916
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 7025
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 7330
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 76
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 8
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 8659
+	},
+	{
+		"movie_id" : 16,
+		"company_id" : 9349
+	},
+	{
+		"movie_id" : 18,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 18,
+		"company_id" : 9
+	},
+	{
+		"movie_id" : 19,
+		"company_id" : 12372
+	},
+	{
+		"movie_id" : 19,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 20,
+		"company_id" : 49
+	},
+	{
+		"movie_id" : 20,
+		"company_id" : 77
+	},
+	{
+		"movie_id" : 22,
+		"company_id" : 130
+	},
+	{
+		"movie_id" : 22,
+		"company_id" : 2
+	},
+	{
+		"movie_id" : 24,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 24,
+		"company_id" : 39121
+	},
+	{
+		"movie_id" : 24,
+		"company_id" : 59
+	},
+	{
+		"movie_id" : 25,
+		"company_id" : 14440
+	},
+	{
+		"movie_id" : 25,
+		"company_id" : 1522
+	},
+	{
+		"movie_id" : 25,
+		"company_id" : 19934
+	},
+	{
+		"movie_id" : 25,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 28,
+		"company_id" : 26663
+	},
+	{
+		"movie_id" : 28,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 33,
+		"company_id" : 171
+	},
+	{
+		"movie_id" : 33,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 35,
+		"company_id" : 18
+	},
+	{
+		"movie_id" : 35,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 38,
+		"company_id" : 10039
+	},
+	{
+		"movie_id" : 38,
+		"company_id" : 10059
+	},
+	{
+		"movie_id" : 38,
+		"company_id" : 10146
+	},
+	{
+		"movie_id" : 55,
+		"company_id" : 11230
+	},
+	{
+		"movie_id" : 55,
+		"company_id" : 5084
+	},
+	{
+		"movie_id" : 58,
+		"company_id" : 130
+	},
+	{
+		"movie_id" : 58,
+		"company_id" : 19936
+	},
+	{
+		"movie_id" : 58,
+		"company_id" : 2
+	},
+	{
+		"movie_id" : 59,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 59,
+		"company_id" : 429
+	},
+	{
+		"movie_id" : 59,
+		"company_id" : 6363
+	},
+	{
+		"movie_id" : 62,
+		"company_id" : 385
+	},
+	{
+		"movie_id" : 62,
+		"company_id" : 8411
+	},
+	{
+		"movie_id" : 65,
+		"company_id" : 23
+	},
+	{
+		"movie_id" : 65,
+		"company_id" : 24
+	},
+	{
+		"movie_id" : 66,
+		"company_id" : 171
+	},
+	{
+		"movie_id" : 66,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 66,
+		"company_id" : 97
+	},
+	{
+		"movie_id" : 68,
+		"company_id" : 10214
+	},
+	{
+		"movie_id" : 69,
+		"company_id" : 6402
+	},
+	{
+		"movie_id" : 69,
+		"company_id" : 711
+	},
+	{
+		"movie_id" : 69,
+		"company_id" : 84
+	},
+	{
+		"movie_id" : 69,
+		"company_id" : 85
+	},
+	{
+		"movie_id" : 69,
+		"company_id" : 86
+	},
+	{
+		"movie_id" : 70,
+		"company_id" : 1171
+	},
+	{
+		"movie_id" : 70,
+		"company_id" : 126
+	},
+	{
+		"movie_id" : 70,
+		"company_id" : 16311
+	},
+	{
+		"movie_id" : 70,
+		"company_id" : 171
+	},
+	{
+		"movie_id" : 70,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 71,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 71,
+		"company_id" : 10462
+	},
+	{
+		"movie_id" : 71,
+		"company_id" : 288
+	},
+	{
+		"movie_id" : 71,
+		"company_id" : 686
+	},
+	{
+		"movie_id" : 71,
+		"company_id" : 694
+	},
+	{
+		"movie_id" : 71,
+		"company_id" : 718
+	},
+	{
+		"movie_id" : 73,
+		"company_id" : 11308
+	},
+	{
+		"movie_id" : 73,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 73,
+		"company_id" : 924
+	},
+	{
+		"movie_id" : 74,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 74,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 74,
+		"company_id" : 44
+	},
+	{
+		"movie_id" : 74,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 75,
+		"company_id" : 8601
+	},
+	{
+		"movie_id" : 76,
+		"company_id" : 98
+	},
+	{
+		"movie_id" : 77,
+		"company_id" : 34446
+	},
+	{
+		"movie_id" : 77,
+		"company_id" : 491
+	},
+	{
+		"movie_id" : 77,
+		"company_id" : 506
+	},
+	{
+		"movie_id" : 77,
+		"company_id" : 598
+	},
+	{
+		"movie_id" : 78,
+		"company_id" : 5798
+	},
+	{
+		"movie_id" : 78,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 78,
+		"company_id" : 7965
+	},
+	{
+		"movie_id" : 79,
+		"company_id" : 2269
+	},
+	{
+		"movie_id" : 79,
+		"company_id" : 724
+	},
+	{
+		"movie_id" : 80,
+		"company_id" : 11509
+	},
+	{
+		"movie_id" : 80,
+		"company_id" : 97
+	},
+	{
+		"movie_id" : 80,
+		"company_id" : 98
+	},
+	{
+		"movie_id" : 83,
+		"company_id" : 22376
+	},
+	{
+		"movie_id" : 85,
+		"company_id" : 1
+	},
+	{
+		"movie_id" : 85,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 87,
+		"company_id" : 1
+	},
+	{
+		"movie_id" : 87,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 89,
+		"company_id" : 1
+	},
+	{
+		"movie_id" : 89,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 90,
+		"company_id" : 30
+	},
+	{
+		"movie_id" : 90,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 95,
+		"company_id" : 11533
+	},
+	{
+		"movie_id" : 95,
+		"company_id" : 130
+	},
+	{
+		"movie_id" : 95,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 96,
+		"company_id" : 10288
+	},
+	{
+		"movie_id" : 96,
+		"company_id" : 30
+	},
+	{
+		"movie_id" : 96,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 98,
+		"company_id" : 14440
+	},
+	{
+		"movie_id" : 98,
+		"company_id" : 1645
+	},
+	{
+		"movie_id" : 98,
+		"company_id" : 21904
+	},
+	{
+		"movie_id" : 98,
+		"company_id" : 21905
+	},
+	{
+		"movie_id" : 98,
+		"company_id" : 21906
+	},
+	{
+		"movie_id" : 98,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 98,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 100,
+		"company_id" : 13419
+	},
+	{
+		"movie_id" : 100,
+		"company_id" : 1382
+	},
+	{
+		"movie_id" : 100,
+		"company_id" : 146
+	},
+	{
+		"movie_id" : 100,
+		"company_id" : 21920
+	},
+	{
+		"movie_id" : 100,
+		"company_id" : 491
+	},
+	{
+		"movie_id" : 103,
+		"company_id" : 441
+	},
+	{
+		"movie_id" : 103,
+		"company_id" : 46059
+	},
+	{
+		"movie_id" : 103,
+		"company_id" : 46060
+	},
+	{
+		"movie_id" : 104,
+		"company_id" : 1972
+	},
+	{
+		"movie_id" : 104,
+		"company_id" : 7025
+	},
+	{
+		"movie_id" : 105,
+		"company_id" : 20448
+	},
+	{
+		"movie_id" : 105,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 105,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 106,
+		"company_id" : 1302
+	},
+	{
+		"movie_id" : 106,
+		"company_id" : 1885
+	},
+	{
+		"movie_id" : 106,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 106,
+		"company_id" : 5263
+	},
+	{
+		"movie_id" : 106,
+		"company_id" : 5264
+	},
+	{
+		"movie_id" : 106,
+		"company_id" : 840
+	},
+	{
+		"movie_id" : 107,
+		"company_id" : 13419
+	},
+	{
+		"movie_id" : 107,
+		"company_id" : 3287
+	},
+	{
+		"movie_id" : 107,
+		"company_id" : 441
+	},
+	{
+		"movie_id" : 111,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 114,
+		"company_id" : 10282
+	},
+	{
+		"movie_id" : 114,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 115,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 115,
+		"company_id" : 1382
+	},
+	{
+		"movie_id" : 115,
+		"company_id" : 37
+	},
+	{
+		"movie_id" : 116,
+		"company_id" : 7
+	},
+	{
+		"movie_id" : 117,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 118,
+		"company_id" : 45778
+	},
+	{
+		"movie_id" : 118,
+		"company_id" : 55512
+	},
+	{
+		"movie_id" : 118,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 118,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 118,
+		"company_id" : 80
+	},
+	{
+		"movie_id" : 118,
+		"company_id" : 8601
+	},
+	{
+		"movie_id" : 120,
+		"company_id" : 11
+	},
+	{
+		"movie_id" : 120,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 120,
+		"company_id" : 5237
+	},
+	{
+		"movie_id" : 121,
+		"company_id" : 11
+	},
+	{
+		"movie_id" : 121,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 121,
+		"company_id" : 5237
+	},
+	{
+		"movie_id" : 122,
+		"company_id" : 11
+	},
+	{
+		"movie_id" : 122,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 128,
+		"company_id" : 10342
+	},
+	{
+		"movie_id" : 128,
+		"company_id" : 12516
+	},
+	{
+		"movie_id" : 128,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 128,
+		"company_id" : 20192
+	},
+	{
+		"movie_id" : 129,
+		"company_id" : 10342
+	},
+	{
+		"movie_id" : 134,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 134,
+		"company_id" : 2092
+	},
+	{
+		"movie_id" : 134,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 134,
+		"company_id" : 5870
+	},
+	{
+		"movie_id" : 134,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 137,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 141,
+		"company_id" : 185
+	},
+	{
+		"movie_id" : 141,
+		"company_id" : 2214
+	},
+	{
+		"movie_id" : 141,
+		"company_id" : 3334
+	},
+	{
+		"movie_id" : 142,
+		"company_id" : 10146
+	},
+	{
+		"movie_id" : 142,
+		"company_id" : 10565
+	},
+	{
+		"movie_id" : 142,
+		"company_id" : 1246
+	},
+	{
+		"movie_id" : 142,
+		"company_id" : 3997
+	},
+	{
+		"movie_id" : 146,
+		"company_id" : 10565
+	},
+	{
+		"movie_id" : 146,
+		"company_id" : 12205
+	},
+	{
+		"movie_id" : 146,
+		"company_id" : 20289
+	},
+	{
+		"movie_id" : 146,
+		"company_id" : 20290
+	},
+	{
+		"movie_id" : 146,
+		"company_id" : 20291
+	},
+	{
+		"movie_id" : 146,
+		"company_id" : 2269
+	},
+	{
+		"movie_id" : 146,
+		"company_id" : 2798
+	},
+	{
+		"movie_id" : 146,
+		"company_id" : 58
+	},
+	{
+		"movie_id" : 149,
+		"company_id" : 10919
+	},
+	{
+		"movie_id" : 149,
+		"company_id" : 10920
+	},
+	{
+		"movie_id" : 149,
+		"company_id" : 10921
+	},
+	{
+		"movie_id" : 149,
+		"company_id" : 3363
+	},
+	{
+		"movie_id" : 149,
+		"company_id" : 528
+	},
+	{
+		"movie_id" : 149,
+		"company_id" : 6999
+	},
+	{
+		"movie_id" : 149,
+		"company_id" : 882
+	},
+	{
+		"movie_id" : 149,
+		"company_id" : 9155
+	},
+	{
+		"movie_id" : 152,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 153,
+		"company_id" : 70
+	},
+	{
+		"movie_id" : 154,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 155,
+		"company_id" : 429
+	},
+	{
+		"movie_id" : 155,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 155,
+		"company_id" : 923
+	},
+	{
+		"movie_id" : 155,
+		"company_id" : 9993
+	},
+	{
+		"movie_id" : 155,
+		"company_id" : 9996
+	},
+	{
+		"movie_id" : 157,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 161,
+		"company_id" : 129
+	},
+	{
+		"movie_id" : 161,
+		"company_id" : 172
+	},
+	{
+		"movie_id" : 161,
+		"company_id" : 24939
+	},
+	{
+		"movie_id" : 161,
+		"company_id" : 2596
+	},
+	{
+		"movie_id" : 161,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 161,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 162,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 163,
+		"company_id" : 12202
+	},
+	{
+		"movie_id" : 163,
+		"company_id" : 129
+	},
+	{
+		"movie_id" : 163,
+		"company_id" : 2596
+	},
+	{
+		"movie_id" : 163,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 163,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 165,
+		"company_id" : 20448
+	},
+	{
+		"movie_id" : 165,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 165,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 167,
+		"company_id" : 1178
+	},
+	{
+		"movie_id" : 167,
+		"company_id" : 19116
+	},
+	{
+		"movie_id" : 167,
+		"company_id" : 763
+	},
+	{
+		"movie_id" : 167,
+		"company_id" : 840
+	},
+	{
+		"movie_id" : 168,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 169,
+		"company_id" : 1302
+	},
+	{
+		"movie_id" : 169,
+		"company_id" : 1885
+	},
+	{
+		"movie_id" : 169,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 169,
+		"company_id" : 840
+	},
+	{
+		"movie_id" : 170,
+		"company_id" : 10889
+	},
+	{
+		"movie_id" : 170,
+		"company_id" : 284
+	},
+	{
+		"movie_id" : 172,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 173,
+		"company_id" : 3166
+	},
+	{
+		"movie_id" : 174,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 176,
+		"company_id" : 2061
+	},
+	{
+		"movie_id" : 176,
+		"company_id" : 23019
+	},
+	{
+		"movie_id" : 176,
+		"company_id" : 35
+	},
+	{
+		"movie_id" : 176,
+		"company_id" : 55405
+	},
+	{
+		"movie_id" : 177,
+		"company_id" : 559
+	},
+	{
+		"movie_id" : 179,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 179,
+		"company_id" : 11581
+	},
+	{
+		"movie_id" : 179,
+		"company_id" : 20194
+	},
+	{
+		"movie_id" : 179,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 179,
+		"company_id" : 694
+	},
+	{
+		"movie_id" : 179,
+		"company_id" : 932
+	},
+	{
+		"movie_id" : 180,
+		"company_id" : 26265
+	},
+	{
+		"movie_id" : 180,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 180,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 180,
+		"company_id" : 44
+	},
+	{
+		"movie_id" : 180,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 180,
+		"company_id" : 76068
+	},
+	{
+		"movie_id" : 180,
+		"company_id" : 766
+	},
+	{
+		"movie_id" : 182,
+		"company_id" : 14315
+	},
+	{
+		"movie_id" : 182,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 182,
+		"company_id" : 70319
+	},
+	{
+		"movie_id" : 184,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 186,
+		"company_id" : 1204
+	},
+	{
+		"movie_id" : 186,
+		"company_id" : 2116
+	},
+	{
+		"movie_id" : 186,
+		"company_id" : 21962
+	},
+	{
+		"movie_id" : 186,
+		"company_id" : 308
+	},
+	{
+		"movie_id" : 186,
+		"company_id" : 816
+	},
+	{
+		"movie_id" : 186,
+		"company_id" : 826
+	},
+	{
+		"movie_id" : 187,
+		"company_id" : 10807
+	},
+	{
+		"movie_id" : 187,
+		"company_id" : 53009
+	},
+	{
+		"movie_id" : 187,
+		"company_id" : 7405
+	},
+	{
+		"movie_id" : 189,
+		"company_id" : 10807
+	},
+	{
+		"movie_id" : 189,
+		"company_id" : 11005
+	},
+	{
+		"movie_id" : 189,
+		"company_id" : 11006
+	},
+	{
+		"movie_id" : 189,
+		"company_id" : 13241
+	},
+	{
+		"movie_id" : 189,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 189,
+		"company_id" : 29076
+	},
+	{
+		"movie_id" : 189,
+		"company_id" : 41658
+	},
+	{
+		"movie_id" : 193,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 12000
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 23446
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 25020
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 27897
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 30994
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 4411
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 5358
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 591
+	},
+	{
+		"movie_id" : 194,
+		"company_id" : 592
+	},
+	{
+		"movie_id" : 196,
+		"company_id" : 20448
+	},
+	{
+		"movie_id" : 196,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 196,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 197,
+		"company_id" : 11353
+	},
+	{
+		"movie_id" : 197,
+		"company_id" : 4564
+	},
+	{
+		"movie_id" : 197,
+		"company_id" : 7965
+	},
+	{
+		"movie_id" : 199,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 199,
+		"company_id" : 76068
+	},
+	{
+		"movie_id" : 200,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 201,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 203,
+		"company_id" : 120
+	},
+	{
+		"movie_id" : 205,
+		"company_id" : 11912
+	},
+	{
+		"movie_id" : 205,
+		"company_id" : 1205
+	},
+	{
+		"movie_id" : 205,
+		"company_id" : 19834
+	},
+	{
+		"movie_id" : 205,
+		"company_id" : 2760
+	},
+	{
+		"movie_id" : 205,
+		"company_id" : 35
+	},
+	{
+		"movie_id" : 205,
+		"company_id" : 564
+	},
+	{
+		"movie_id" : 205,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 205,
+		"company_id" : 7495
+	},
+	{
+		"movie_id" : 207,
+		"company_id" : 10282
+	},
+	{
+		"movie_id" : 207,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 214,
+		"company_id" : 2061
+	},
+	{
+		"movie_id" : 214,
+		"company_id" : 23019
+	},
+	{
+		"movie_id" : 214,
+		"company_id" : 35
+	},
+	{
+		"movie_id" : 215,
+		"company_id" : 1053
+	},
+	{
+		"movie_id" : 215,
+		"company_id" : 2061
+	},
+	{
+		"movie_id" : 215,
+		"company_id" : 23019
+	},
+	{
+		"movie_id" : 215,
+		"company_id" : 35
+	},
+	{
+		"movie_id" : 215,
+		"company_id" : 64651
+	},
+	{
+		"movie_id" : 217,
+		"company_id" : 1
+	},
+	{
+		"movie_id" : 217,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 218,
+		"company_id" : 1280
+	},
+	{
+		"movie_id" : 218,
+		"company_id" : 3952
+	},
+	{
+		"movie_id" : 218,
+		"company_id" : 41
+	},
+	{
+		"movie_id" : 218,
+		"company_id" : 4764
+	},
+	{
+		"movie_id" : 218,
+		"company_id" : 7745
+	},
+	{
+		"movie_id" : 219,
+		"company_id" : 49
+	},
+	{
+		"movie_id" : 223,
+		"company_id" : 1553
+	},
+	{
+		"movie_id" : 226,
+		"company_id" : 11351
+	},
+	{
+		"movie_id" : 226,
+		"company_id" : 1422
+	},
+	{
+		"movie_id" : 226,
+		"company_id" : 307
+	},
+	{
+		"movie_id" : 226,
+		"company_id" : 43
+	},
+	{
+		"movie_id" : 226,
+		"company_id" : 54
+	},
+	{
+		"movie_id" : 227,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 227,
+		"company_id" : 70
+	},
+	{
+		"movie_id" : 231,
+		"company_id" : 129
+	},
+	{
+		"movie_id" : 231,
+		"company_id" : 20665
+	},
+	{
+		"movie_id" : 231,
+		"company_id" : 20666
+	},
+	{
+		"movie_id" : 231,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 231,
+		"company_id" : 6735
+	},
+	{
+		"movie_id" : 231,
+		"company_id" : 7786
+	},
+	{
+		"movie_id" : 235,
+		"company_id" : 1153
+	},
+	{
+		"movie_id" : 235,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 235,
+		"company_id" : 90896
+	},
+	{
+		"movie_id" : 235,
+		"company_id" : 90897
+	},
+	{
+		"movie_id" : 238,
+		"company_id" : 10211
+	},
+	{
+		"movie_id" : 238,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 239,
+		"company_id" : 11982
+	},
+	{
+		"movie_id" : 239,
+		"company_id" : 219
+	},
+	{
+		"movie_id" : 240,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 240,
+		"company_id" : 536
+	},
+	{
+		"movie_id" : 242,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 243,
+		"company_id" : 32
+	},
+	{
+		"movie_id" : 243,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 245,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 248,
+		"company_id" : 1044
+	},
+	{
+		"movie_id" : 251,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 252,
+		"company_id" : 3434
+	},
+	{
+		"movie_id" : 252,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 253,
+		"company_id" : 10761
+	},
+	{
+		"movie_id" : 253,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 253,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 254,
+		"company_id" : 11
+	},
+	{
+		"movie_id" : 254,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 254,
+		"company_id" : 68
+	},
+	{
+		"movie_id" : 254,
+		"company_id" : 69
+	},
+	{
+		"movie_id" : 257,
+		"company_id" : 2979
+	},
+	{
+		"movie_id" : 257,
+		"company_id" : 355
+	},
+	{
+		"movie_id" : 257,
+		"company_id" : 6732
+	},
+	{
+		"movie_id" : 261,
+		"company_id" : 100
+	},
+	{
+		"movie_id" : 261,
+		"company_id" : 8411
+	},
+	{
+		"movie_id" : 268,
+		"company_id" : 1382
+	},
+	{
+		"movie_id" : 268,
+		"company_id" : 4357
+	},
+	{
+		"movie_id" : 268,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 272,
+		"company_id" : 19231
+	},
+	{
+		"movie_id" : 272,
+		"company_id" : 429
+	},
+	{
+		"movie_id" : 272,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 272,
+		"company_id" : 923
+	},
+	{
+		"movie_id" : 272,
+		"company_id" : 9993
+	},
+	{
+		"movie_id" : 272,
+		"company_id" : 9996
+	},
+	{
+		"movie_id" : 274,
+		"company_id" : 41
+	},
+	{
+		"movie_id" : 274,
+		"company_id" : 55072
+	},
+	{
+		"movie_id" : 277,
+		"company_id" : 126
+	},
+	{
+		"movie_id" : 277,
+		"company_id" : 7733
+	},
+	{
+		"movie_id" : 277,
+		"company_id" : 7734
+	},
+	{
+		"movie_id" : 277,
+		"company_id" : 7735
+	},
+	{
+		"movie_id" : 277,
+		"company_id" : 7736
+	},
+	{
+		"movie_id" : 278,
+		"company_id" : 97
+	},
+	{
+		"movie_id" : 279,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 280,
+		"company_id" : 1280
+	},
+	{
+		"movie_id" : 280,
+		"company_id" : 14723
+	},
+	{
+		"movie_id" : 280,
+		"company_id" : 5358
+	},
+	{
+		"movie_id" : 280,
+		"company_id" : 574
+	},
+	{
+		"movie_id" : 280,
+		"company_id" : 61409
+	},
+	{
+		"movie_id" : 284,
+		"company_id" : 11241
+	},
+	{
+		"movie_id" : 284,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 285,
+		"company_id" : 130
+	},
+	{
+		"movie_id" : 285,
+		"company_id" : 19936
+	},
+	{
+		"movie_id" : 285,
+		"company_id" : 2
+	},
+	{
+		"movie_id" : 288,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 288,
+		"company_id" : 893
+	},
+	{
+		"movie_id" : 289,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 292,
+		"company_id" : 2448
+	},
+	{
+		"movie_id" : 296,
+		"company_id" : 19116
+	},
+	{
+		"movie_id" : 296,
+		"company_id" : 23636
+	},
+	{
+		"movie_id" : 296,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 296,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 296,
+		"company_id" : 7340
+	},
+	{
+		"movie_id" : 296,
+		"company_id" : 763
+	},
+	{
+		"movie_id" : 297,
+		"company_id" : 136
+	},
+	{
+		"movie_id" : 297,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 298,
+		"company_id" : 129
+	},
+	{
+		"movie_id" : 298,
+		"company_id" : 2596
+	},
+	{
+		"movie_id" : 298,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 298,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 302,
+		"company_id" : 104
+	},
+	{
+		"movie_id" : 302,
+		"company_id" : 147
+	},
+	{
+		"movie_id" : 302,
+		"company_id" : 148
+	},
+	{
+		"movie_id" : 302,
+		"company_id" : 149
+	},
+	{
+		"movie_id" : 302,
+		"company_id" : 150
+	},
+	{
+		"movie_id" : 302,
+		"company_id" : 83
+	},
+	{
+		"movie_id" : 306,
+		"company_id" : 30
+	},
+	{
+		"movie_id" : 306,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 309,
+		"company_id" : 11672
+	},
+	{
+		"movie_id" : 309,
+		"company_id" : 156
+	},
+	{
+		"movie_id" : 309,
+		"company_id" : 3221
+	},
+	{
+		"movie_id" : 310,
+		"company_id" : 158
+	},
+	{
+		"movie_id" : 310,
+		"company_id" : 159
+	},
+	{
+		"movie_id" : 310,
+		"company_id" : 160
+	},
+	{
+		"movie_id" : 310,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 311,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 311,
+		"company_id" : 7965
+	},
+	{
+		"movie_id" : 314,
+		"company_id" : 52945
+	},
+	{
+		"movie_id" : 314,
+		"company_id" : 52946
+	},
+	{
+		"movie_id" : 314,
+		"company_id" : 52947
+	},
+	{
+		"movie_id" : 314,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 314,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 314,
+		"company_id" : 813
+	},
+	{
+		"movie_id" : 319,
+		"company_id" : 10210
+	},
+	{
+		"movie_id" : 319,
+		"company_id" : 3322
+	},
+	{
+		"movie_id" : 319,
+		"company_id" : 342
+	},
+	{
+		"movie_id" : 319,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 320,
+		"company_id" : 1088
+	},
+	{
+		"movie_id" : 320,
+		"company_id" : 1089
+	},
+	{
+		"movie_id" : 320,
+		"company_id" : 129
+	},
+	{
+		"movie_id" : 321,
+		"company_id" : 4096
+	},
+	{
+		"movie_id" : 322,
+		"company_id" : 171
+	},
+	{
+		"movie_id" : 322,
+		"company_id" : 172
+	},
+	{
+		"movie_id" : 322,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 322,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 326,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 327,
+		"company_id" : 11561
+	},
+	{
+		"movie_id" : 327,
+		"company_id" : 11562
+	},
+	{
+		"movie_id" : 327,
+		"company_id" : 11563
+	},
+	{
+		"movie_id" : 327,
+		"company_id" : 528
+	},
+	{
+		"movie_id" : 327,
+		"company_id" : 567
+	},
+	{
+		"movie_id" : 327,
+		"company_id" : 6516
+	},
+	{
+		"movie_id" : 329,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 329,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 330,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 330,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 331,
+		"company_id" : 13
+	},
+	{
+		"movie_id" : 331,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 332,
+		"company_id" : 175
+	},
+	{
+		"movie_id" : 332,
+		"company_id" : 2
+	},
+	{
+		"movie_id" : 332,
+		"company_id" : 20477
+	},
+	{
+		"movie_id" : 334,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 334,
+		"company_id" : 178
+	},
+	{
+		"movie_id" : 334,
+		"company_id" : 179
+	},
+	{
+		"movie_id" : 335,
+		"company_id" : 11386
+	},
+	{
+		"movie_id" : 335,
+		"company_id" : 218
+	},
+	{
+		"movie_id" : 335,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 338,
+		"company_id" : 1972
+	},
+	{
+		"movie_id" : 338,
+		"company_id" : 201
+	},
+	{
+		"movie_id" : 338,
+		"company_id" : 46
+	},
+	{
+		"movie_id" : 342,
+		"company_id" : 161
+	},
+	{
+		"movie_id" : 345,
+		"company_id" : 194
+	},
+	{
+		"movie_id" : 345,
+		"company_id" : 195
+	},
+	{
+		"movie_id" : 345,
+		"company_id" : 385
+	},
+	{
+		"movie_id" : 345,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 346,
+		"company_id" : 882
+	},
+	{
+		"movie_id" : 348,
+		"company_id" : 19747
+	},
+	{
+		"movie_id" : 348,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 350,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 350,
+		"company_id" : 444
+	},
+	{
+		"movie_id" : 350,
+		"company_id" : 445
+	},
+	{
+		"movie_id" : 350,
+		"company_id" : 682
+	},
+	{
+		"movie_id" : 350,
+		"company_id" : 711
+	},
+	{
+		"movie_id" : 364,
+		"company_id" : 1382
+	},
+	{
+		"movie_id" : 364,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 377,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 377,
+		"company_id" : 1531
+	},
+	{
+		"movie_id" : 380,
+		"company_id" : 206
+	},
+	{
+		"movie_id" : 380,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 387,
+		"company_id" : 11344
+	},
+	{
+		"movie_id" : 387,
+		"company_id" : 1704
+	},
+	{
+		"movie_id" : 387,
+		"company_id" : 209
+	},
+	{
+		"movie_id" : 387,
+		"company_id" : 210
+	},
+	{
+		"movie_id" : 387,
+		"company_id" : 7025
+	},
+	{
+		"movie_id" : 388,
+		"company_id" : 23
+	},
+	{
+		"movie_id" : 388,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 388,
+		"company_id" : 4319
+	},
+	{
+		"movie_id" : 389,
+		"company_id" : 10212
+	},
+	{
+		"movie_id" : 389,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 391,
+		"company_id" : 10481
+	},
+	{
+		"movie_id" : 391,
+		"company_id" : 19498
+	},
+	{
+		"movie_id" : 391,
+		"company_id" : 5755
+	},
+	{
+		"movie_id" : 391,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 392,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 392,
+		"company_id" : 65781
+	},
+	{
+		"movie_id" : 392,
+		"company_id" : 903
+	},
+	{
+		"movie_id" : 393,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 393,
+		"company_id" : 39121
+	},
+	{
+		"movie_id" : 393,
+		"company_id" : 59
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 11345
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 1302
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 19747
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 19828
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 19829
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 19834
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 19835
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 248
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 264
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 395,
+		"company_id" : 76043
+	},
+	{
+		"movie_id" : 398,
+		"company_id" : 11715
+	},
+	{
+		"movie_id" : 398,
+		"company_id" : 12200
+	},
+	{
+		"movie_id" : 398,
+		"company_id" : 213
+	},
+	{
+		"movie_id" : 398,
+		"company_id" : 214
+	},
+	{
+		"movie_id" : 398,
+		"company_id" : 54280
+	},
+	{
+		"movie_id" : 398,
+		"company_id" : 54281
+	},
+	{
+		"movie_id" : 398,
+		"company_id" : 58
+	},
+	{
+		"movie_id" : 400,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 401,
+		"company_id" : 11728
+	},
+	{
+		"movie_id" : 401,
+		"company_id" : 11729
+	},
+	{
+		"movie_id" : 401,
+		"company_id" : 215
+	},
+	{
+		"movie_id" : 401,
+		"company_id" : 216
+	},
+	{
+		"movie_id" : 401,
+		"company_id" : 43
+	},
+	{
+		"movie_id" : 403,
+		"company_id" : 2630
+	},
+	{
+		"movie_id" : 403,
+		"company_id" : 80
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 181
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 2
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 373
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 5358
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 59423
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 635
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 637
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 694
+	},
+	{
+		"movie_id" : 404,
+		"company_id" : 7832
+	},
+	{
+		"movie_id" : 408,
+		"company_id" : 3166
+	},
+	{
+		"movie_id" : 409,
+		"company_id" : 12204
+	},
+	{
+		"movie_id" : 409,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 411,
+		"company_id" : 10221
+	},
+	{
+		"movie_id" : 411,
+		"company_id" : 5888
+	},
+	{
+		"movie_id" : 414,
+		"company_id" : 31080
+	},
+	{
+		"movie_id" : 414,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 415,
+		"company_id" : 1382
+	},
+	{
+		"movie_id" : 415,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 421,
+		"company_id" : 23449
+	},
+	{
+		"movie_id" : 421,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 10201
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 19150
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 208
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 250
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 260
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 264
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 266
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 267
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 268
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 269
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 271
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 31087
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 355
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 4247
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 5358
+	},
+	{
+		"movie_id" : 423,
+		"company_id" : 694
+	},
+	{
+		"movie_id" : 424,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 424,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 425,
+		"company_id" : 11749
+	},
+	{
+		"movie_id" : 425,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 425,
+		"company_id" : 9383
+	},
+	{
+		"movie_id" : 429,
+		"company_id" : 42498
+	},
+	{
+		"movie_id" : 429,
+		"company_id" : 5755
+	},
+	{
+		"movie_id" : 429,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 429,
+		"company_id" : 7508
+	},
+	{
+		"movie_id" : 431,
+		"company_id" : 21953
+	},
+	{
+		"movie_id" : 431,
+		"company_id" : 22207
+	},
+	{
+		"movie_id" : 431,
+		"company_id" : 22208
+	},
+	{
+		"movie_id" : 431,
+		"company_id" : 22209
+	},
+	{
+		"movie_id" : 431,
+		"company_id" : 22210
+	},
+	{
+		"movie_id" : 431,
+		"company_id" : 22211
+	},
+	{
+		"movie_id" : 431,
+		"company_id" : 806
+	},
+	{
+		"movie_id" : 433,
+		"company_id" : 3166
+	},
+	{
+		"movie_id" : 435,
+		"company_id" : 11362
+	},
+	{
+		"movie_id" : 435,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 435,
+		"company_id" : 347
+	},
+	{
+		"movie_id" : 435,
+		"company_id" : 35
+	},
+	{
+		"movie_id" : 435,
+		"company_id" : 54502
+	},
+	{
+		"movie_id" : 436,
+		"company_id" : 2291
+	},
+	{
+		"movie_id" : 436,
+		"company_id" : 7429
+	},
+	{
+		"movie_id" : 436,
+		"company_id" : 8
+	},
+	{
+		"movie_id" : 440,
+		"company_id" : 1302
+	},
+	{
+		"movie_id" : 440,
+		"company_id" : 19747
+	},
+	{
+		"movie_id" : 440,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 440,
+		"company_id" : 444
+	},
+	{
+		"movie_id" : 451,
+		"company_id" : 15547
+	},
+	{
+		"movie_id" : 451,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 453,
+		"company_id" : 23
+	},
+	{
+		"movie_id" : 453,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 453,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 454,
+		"company_id" : 240
+	},
+	{
+		"movie_id" : 454,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 455,
+		"company_id" : 1490
+	},
+	{
+		"movie_id" : 455,
+		"company_id" : 2406
+	},
+	{
+		"movie_id" : 455,
+		"company_id" : 2452
+	},
+	{
+		"movie_id" : 455,
+		"company_id" : 43
+	},
+	{
+		"movie_id" : 462,
+		"company_id" : 216
+	},
+	{
+		"movie_id" : 464,
+		"company_id" : 242
+	},
+	{
+		"movie_id" : 464,
+		"company_id" : 2495
+	},
+	{
+		"movie_id" : 464,
+		"company_id" : 7937
+	},
+	{
+		"movie_id" : 468,
+		"company_id" : 8
+	},
+	{
+		"movie_id" : 470,
+		"company_id" : 10059
+	},
+	{
+		"movie_id" : 470,
+		"company_id" : 10887
+	},
+	{
+		"movie_id" : 470,
+		"company_id" : 10888
+	},
+	{
+		"movie_id" : 473,
+		"company_id" : 22566
+	},
+	{
+		"movie_id" : 473,
+		"company_id" : 22567
+	},
+	{
+		"movie_id" : 473,
+		"company_id" : 379
+	},
+	{
+		"movie_id" : 473,
+		"company_id" : 7503
+	},
+	{
+		"movie_id" : 479,
+		"company_id" : 258
+	},
+	{
+		"movie_id" : 479,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 480,
+		"company_id" : 10932
+	},
+	{
+		"movie_id" : 480,
+		"company_id" : 307
+	},
+	{
+		"movie_id" : 480,
+		"company_id" : 6235
+	},
+	{
+		"movie_id" : 489,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 489,
+		"company_id" : 2253
+	},
+	{
+		"movie_id" : 489,
+		"company_id" : 23201
+	},
+	{
+		"movie_id" : 492,
+		"company_id" : 278
+	},
+	{
+		"movie_id" : 492,
+		"company_id" : 279
+	},
+	{
+		"movie_id" : 492,
+		"company_id" : 37
+	},
+	{
+		"movie_id" : 496,
+		"company_id" : 20567
+	},
+	{
+		"movie_id" : 496,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 497,
+		"company_id" : 3982
+	},
+	{
+		"movie_id" : 497,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 497,
+		"company_id" : 97
+	},
+	{
+		"movie_id" : 500,
+		"company_id" : 1632
+	},
+	{
+		"movie_id" : 500,
+		"company_id" : 26198
+	},
+	{
+		"movie_id" : 500,
+		"company_id" : 285
+	},
+	{
+		"movie_id" : 503,
+		"company_id" : 14024
+	},
+	{
+		"movie_id" : 503,
+		"company_id" : 1633
+	},
+	{
+		"movie_id" : 503,
+		"company_id" : 18990
+	},
+	{
+		"movie_id" : 503,
+		"company_id" : 19943
+	},
+	{
+		"movie_id" : 503,
+		"company_id" : 449
+	},
+	{
+		"movie_id" : 503,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 504,
+		"company_id" : 28
+	},
+	{
+		"movie_id" : 507,
+		"company_id" : 285
+	},
+	{
+		"movie_id" : 508,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 508,
+		"company_id" : 284
+	},
+	{
+		"movie_id" : 508,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 508,
+		"company_id" : 694
+	},
+	{
+		"movie_id" : 509,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 509,
+		"company_id" : 282
+	},
+	{
+		"movie_id" : 509,
+		"company_id" : 283
+	},
+	{
+		"movie_id" : 509,
+		"company_id" : 31080
+	},
+	{
+		"movie_id" : 510,
+		"company_id" : 286
+	},
+	{
+		"movie_id" : 510,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 510,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 512,
+		"company_id" : 288
+	},
+	{
+		"movie_id" : 512,
+		"company_id" : 289
+	},
+	{
+		"movie_id" : 512,
+		"company_id" : 290
+	},
+	{
+		"movie_id" : 512,
+		"company_id" : 291
+	},
+	{
+		"movie_id" : 522,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 524,
+		"company_id" : 10898
+	},
+	{
+		"movie_id" : 524,
+		"company_id" : 11583
+	},
+	{
+		"movie_id" : 524,
+		"company_id" : 11584
+	},
+	{
+		"movie_id" : 524,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 525,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 526,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 526,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 533,
+		"company_id" : 297
+	},
+	{
+		"movie_id" : 533,
+		"company_id" : 521
+	},
+	{
+		"movie_id" : 534,
+		"company_id" : 4021
+	},
+	{
+		"movie_id" : 534,
+		"company_id" : 4022
+	},
+	{
+		"movie_id" : 534,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 534,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 535,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 539,
+		"company_id" : 10717
+	},
+	{
+		"movie_id" : 539,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 539,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 540,
+		"company_id" : 10039
+	},
+	{
+		"movie_id" : 540,
+		"company_id" : 2313
+	},
+	{
+		"movie_id" : 540,
+		"company_id" : 3287
+	},
+	{
+		"movie_id" : 540,
+		"company_id" : 769
+	},
+	{
+		"movie_id" : 542,
+		"company_id" : 299
+	},
+	{
+		"movie_id" : 542,
+		"company_id" : 300
+	},
+	{
+		"movie_id" : 542,
+		"company_id" : 301
+	},
+	{
+		"movie_id" : 542,
+		"company_id" : 303
+	},
+	{
+		"movie_id" : 542,
+		"company_id" : 304
+	},
+	{
+		"movie_id" : 544,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 546,
+		"company_id" : 307
+	},
+	{
+		"movie_id" : 546,
+		"company_id" : 308
+	},
+	{
+		"movie_id" : 547,
+		"company_id" : 316
+	},
+	{
+		"movie_id" : 547,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 549,
+		"company_id" : 53009
+	},
+	{
+		"movie_id" : 549,
+		"company_id" : 93380
+	},
+	{
+		"movie_id" : 549,
+		"company_id" : 93381
+	},
+	{
+		"movie_id" : 550,
+		"company_id" : 20555
+	},
+	{
+		"movie_id" : 550,
+		"company_id" : 508
+	},
+	{
+		"movie_id" : 550,
+		"company_id" : 54050
+	},
+	{
+		"movie_id" : 550,
+		"company_id" : 54051
+	},
+	{
+		"movie_id" : 550,
+		"company_id" : 54052
+	},
+	{
+		"movie_id" : 550,
+		"company_id" : 711
+	},
+	{
+		"movie_id" : 557,
+		"company_id" : 19551
+	},
+	{
+		"movie_id" : 557,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 558,
+		"company_id" : 19551
+	},
+	{
+		"movie_id" : 558,
+		"company_id" : 326
+	},
+	{
+		"movie_id" : 558,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 559,
+		"company_id" : 19551
+	},
+	{
+		"movie_id" : 559,
+		"company_id" : 326
+	},
+	{
+		"movie_id" : 559,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 562,
+		"company_id" : 1073
+	},
+	{
+		"movie_id" : 562,
+		"company_id" : 1885
+	},
+	{
+		"movie_id" : 562,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 563,
+		"company_id" : 23434
+	},
+	{
+		"movie_id" : 563,
+		"company_id" : 559
+	},
+	{
+		"movie_id" : 563,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 568,
+		"company_id" : 23
+	},
+	{
+		"movie_id" : 568,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 573,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 576,
+		"company_id" : 4051
+	},
+	{
+		"movie_id" : 577,
+		"company_id" : 364
+	},
+	{
+		"movie_id" : 577,
+		"company_id" : 441
+	},
+	{
+		"movie_id" : 578,
+		"company_id" : 1865
+	},
+	{
+		"movie_id" : 578,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 579,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 580,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 581,
+		"company_id" : 2630
+	},
+	{
+		"movie_id" : 581,
+		"company_id" : 335
+	},
+	{
+		"movie_id" : 582,
+		"company_id" : 201
+	},
+	{
+		"movie_id" : 582,
+		"company_id" : 336
+	},
+	{
+		"movie_id" : 582,
+		"company_id" : 337
+	},
+	{
+		"movie_id" : 582,
+		"company_id" : 7333
+	},
+	{
+		"movie_id" : 584,
+		"company_id" : 24
+	},
+	{
+		"movie_id" : 584,
+		"company_id" : 26281
+	},
+	{
+		"movie_id" : 584,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 584,
+		"company_id" : 333
+	},
+	{
+		"movie_id" : 585,
+		"company_id" : 2
+	},
+	{
+		"movie_id" : 585,
+		"company_id" : 3
+	},
+	{
+		"movie_id" : 586,
+		"company_id" : 11391
+	},
+	{
+		"movie_id" : 586,
+		"company_id" : 11407
+	},
+	{
+		"movie_id" : 586,
+		"company_id" : 12
+	},
+	{
+		"movie_id" : 587,
+		"company_id" : 2721
+	},
+	{
+		"movie_id" : 587,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 587,
+		"company_id" : 80
+	},
+	{
+		"movie_id" : 587,
+		"company_id" : 8601
+	},
+	{
+		"movie_id" : 588,
+		"company_id" : 341
+	},
+	{
+		"movie_id" : 588,
+		"company_id" : 342
+	},
+	{
+		"movie_id" : 588,
+		"company_id" : 559
+	},
+	{
+		"movie_id" : 588,
+		"company_id" : 55914
+	},
+	{
+		"movie_id" : 590,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 590,
+		"company_id" : 258
+	},
+	{
+		"movie_id" : 590,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 591,
+		"company_id" : 19927
+	},
+	{
+		"movie_id" : 591,
+		"company_id" : 23
+	},
+	{
+		"movie_id" : 591,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 591,
+		"company_id" : 8253
+	},
+	{
+		"movie_id" : 592,
+		"company_id" : 14120
+	},
+	{
+		"movie_id" : 592,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 592,
+		"company_id" : 536
+	},
+	{
+		"movie_id" : 593,
+		"company_id" : 5120
+	},
+	{
+		"movie_id" : 593,
+		"company_id" : 77882
+	},
+	{
+		"movie_id" : 593,
+		"company_id" : 77883
+	},
+	{
+		"movie_id" : 594,
+		"company_id" : 11084
+	},
+	{
+		"movie_id" : 594,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 594,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 595,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 597,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 597,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 597,
+		"company_id" : 574
+	},
+	{
+		"movie_id" : 598,
+		"company_id" : 10954
+	},
+	{
+		"movie_id" : 598,
+		"company_id" : 11444
+	},
+	{
+		"movie_id" : 598,
+		"company_id" : 11445
+	},
+	{
+		"movie_id" : 598,
+		"company_id" : 11446
+	},
+	{
+		"movie_id" : 598,
+		"company_id" : 345
+	},
+	{
+		"movie_id" : 598,
+		"company_id" : 346
+	},
+	{
+		"movie_id" : 598,
+		"company_id" : 856
+	},
+	{
+		"movie_id" : 601,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 601,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 602,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 602,
+		"company_id" : 347
+	},
+	{
+		"movie_id" : 603,
+		"company_id" : 1885
+	},
+	{
+		"movie_id" : 603,
+		"company_id" : 372
+	},
+	{
+		"movie_id" : 603,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 603,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 604,
+		"company_id" : 172
+	},
+	{
+		"movie_id" : 604,
+		"company_id" : 1885
+	},
+	{
+		"movie_id" : 604,
+		"company_id" : 375
+	},
+	{
+		"movie_id" : 604,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 604,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 605,
+		"company_id" : 172
+	},
+	{
+		"movie_id" : 605,
+		"company_id" : 1885
+	},
+	{
+		"movie_id" : 605,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 605,
+		"company_id" : 79
+	},
+	{
+		"movie_id" : 606,
+		"company_id" : 205
+	},
+	{
+		"movie_id" : 606,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 607,
+		"company_id" : 441
+	},
+	{
+		"movie_id" : 607,
+		"company_id" : 49325
+	},
+	{
+		"movie_id" : 607,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 608,
+		"company_id" : 441
+	},
+	{
+		"movie_id" : 608,
+		"company_id" : 49325
+	},
+	{
+		"movie_id" : 608,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 608,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 609,
+		"company_id" : 396
+	},
+	{
+		"movie_id" : 609,
+		"company_id" : 8411
+	},
+	{
+		"movie_id" : 612,
+		"company_id" : 17032
+	},
+	{
+		"movie_id" : 612,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 612,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 612,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 612,
+		"company_id" : 682
+	},
+	{
+		"movie_id" : 612,
+		"company_id" : 7383
+	},
+	{
+		"movie_id" : 612,
+		"company_id" : 803
+	},
+	{
+		"movie_id" : 613,
+		"company_id" : 2278
+	},
+	{
+		"movie_id" : 613,
+		"company_id" : 2683
+	},
+	{
+		"movie_id" : 613,
+		"company_id" : 3391
+	},
+	{
+		"movie_id" : 613,
+		"company_id" : 5755
+	},
+	{
+		"movie_id" : 613,
+		"company_id" : 7025
+	},
+	{
+		"movie_id" : 613,
+		"company_id" : 7201
+	},
+	{
+		"movie_id" : 613,
+		"company_id" : 986
+	},
+	{
+		"movie_id" : 615,
+		"company_id" : 152
+	},
+	{
+		"movie_id" : 615,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 616,
+		"company_id" : 14718
+	},
+	{
+		"movie_id" : 616,
+		"company_id" : 20634
+	},
+	{
+		"movie_id" : 616,
+		"company_id" : 44
+	},
+	{
+		"movie_id" : 616,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 617,
+		"company_id" : 1236
+	},
+	{
+		"movie_id" : 617,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 619,
+		"company_id" : 13040
+	},
+	{
+		"movie_id" : 619,
+		"company_id" : 335
+	},
+	{
+		"movie_id" : 619,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 621,
+		"company_id" : 3978
+	},
+	{
+		"movie_id" : 621,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 208
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 2188
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 3315
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 353
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 354
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 355
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 357
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 3823
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 5358
+	},
+	{
+		"movie_id" : 622,
+		"company_id" : 9335
+	},
+	{
+		"movie_id" : 627,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 627,
+		"company_id" : 181
+	},
+	{
+		"movie_id" : 627,
+		"company_id" : 358
+	},
+	{
+		"movie_id" : 627,
+		"company_id" : 359
+	},
+	{
+		"movie_id" : 627,
+		"company_id" : 9349
+	},
+	{
+		"movie_id" : 628,
+		"company_id" : 360
+	},
+	{
+		"movie_id" : 629,
+		"company_id" : 361
+	},
+	{
+		"movie_id" : 629,
+		"company_id" : 9168
+	},
+	{
+		"movie_id" : 630,
+		"company_id" : 31892
+	},
+	{
+		"movie_id" : 634,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 634,
+		"company_id" : 11358
+	},
+	{
+		"movie_id" : 634,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 634,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 634,
+		"company_id" : 5870
+	},
+	{
+		"movie_id" : 639,
+		"company_id" : 365
+	},
+	{
+		"movie_id" : 639,
+		"company_id" : 97
+	},
+	{
+		"movie_id" : 640,
+		"company_id" : 11084
+	},
+	{
+		"movie_id" : 640,
+		"company_id" : 367
+	},
+	{
+		"movie_id" : 640,
+		"company_id" : 368
+	},
+	{
+		"movie_id" : 641,
+		"company_id" : 2188
+	},
+	{
+		"movie_id" : 642,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 642,
+		"company_id" : 381
+	},
+	{
+		"movie_id" : 642,
+		"company_id" : 382
+	},
+	{
+		"movie_id" : 644,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 644,
+		"company_id" : 385
+	},
+	{
+		"movie_id" : 644,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 644,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 646,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 646,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 650,
+		"company_id" : 441
+	},
+	{
+		"movie_id" : 652,
+		"company_id" : 18990
+	},
+	{
+		"movie_id" : 652,
+		"company_id" : 19107
+	},
+	{
+		"movie_id" : 652,
+		"company_id" : 19108
+	},
+	{
+		"movie_id" : 652,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 652,
+		"company_id" : 7636
+	},
+	{
+		"movie_id" : 652,
+		"company_id" : 81
+	},
+	{
+		"movie_id" : 654,
+		"company_id" : 388
+	},
+	{
+		"movie_id" : 654,
+		"company_id" : 5
+	},
+	{
+		"movie_id" : 657,
+		"company_id" : 10761
+	},
+	{
+		"movie_id" : 657,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 657,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 658,
+		"company_id" : 10761
+	},
+	{
+		"movie_id" : 658,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 658,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 660,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 660,
+		"company_id" : 8411
+	},
+	{
+		"movie_id" : 663,
+		"company_id" : 2061
+	},
+	{
+		"movie_id" : 663,
+		"company_id" : 35
+	},
+	{
+		"movie_id" : 664,
+		"company_id" : 23370
+	},
+	{
+		"movie_id" : 664,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 664,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 664,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 666,
+		"company_id" : 393
+	},
+	{
+		"movie_id" : 666,
+		"company_id" : 394
+	},
+	{
+		"movie_id" : 666,
+		"company_id" : 395
+	},
+	{
+		"movie_id" : 667,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 668,
+		"company_id" : 10761
+	},
+	{
+		"movie_id" : 668,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 668,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 670,
+		"company_id" : 398
+	},
+	{
+		"movie_id" : 670,
+		"company_id" : 399
+	},
+	{
+		"movie_id" : 671,
+		"company_id" : 436
+	},
+	{
+		"movie_id" : 671,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 671,
+		"company_id" : 7364
+	},
+	{
+		"movie_id" : 672,
+		"company_id" : 436
+	},
+	{
+		"movie_id" : 672,
+		"company_id" : 437
+	},
+	{
+		"movie_id" : 672,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 673,
+		"company_id" : 436
+	},
+	{
+		"movie_id" : 673,
+		"company_id" : 437
+	},
+	{
+		"movie_id" : 673,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 674,
+		"company_id" : 462
+	},
+	{
+		"movie_id" : 674,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 674,
+		"company_id" : 7364
+	},
+	{
+		"movie_id" : 675,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 675,
+		"company_id" : 7364
+	},
+	{
+		"movie_id" : 676,
+		"company_id" : 130
+	},
+	{
+		"movie_id" : 676,
+		"company_id" : 9195
+	},
+	{
+		"movie_id" : 679,
+		"company_id" : 19747
+	},
+	{
+		"movie_id" : 679,
+		"company_id" : 306
+	},
+	{
+		"movie_id" : 679,
+		"company_id" : 396
+	},
+	{
+		"movie_id" : 680,
+		"company_id" : 14
+	},
+	{
+		"movie_id" : 680,
+		"company_id" : 216
+	},
+	{
+		"movie_id" : 680,
+		"company_id" : 59
+	},
+	{
+		"movie_id" : 681,
+		"company_id" : 10761
+	},
+	{
+		"movie_id" : 681,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 681,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 682,
+		"company_id" : 10761
+	},
+	{
+		"movie_id" : 682,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 682,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 686,
+		"company_id" : 43910
+	},
+	{
+		"movie_id" : 686,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 687,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 687,
+		"company_id" : 1382
+	},
+	{
+		"movie_id" : 687,
+		"company_id" : 406
+	},
+	{
+		"movie_id" : 688,
+		"company_id" : 171
+	},
+	{
+		"movie_id" : 688,
+		"company_id" : 56
+	},
+	{
+		"movie_id" : 688,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 691,
+		"company_id" : 10761
+	},
+	{
+		"movie_id" : 691,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 691,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 692,
+		"company_id" : 407
+	},
+	{
+		"movie_id" : 693,
+		"company_id" : 11391
+	},
+	{
+		"movie_id" : 693,
+		"company_id" : 2242
+	},
+	{
+		"movie_id" : 693,
+		"company_id" : 27
+	},
+	{
+		"movie_id" : 693,
+		"company_id" : 33
+	},
+	{
+		"movie_id" : 694,
+		"company_id" : 11272
+	},
+	{
+		"movie_id" : 694,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 694,
+		"company_id" : 88
+	},
+	{
+		"movie_id" : 698,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 698,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 699,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 699,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 700,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 702,
+		"company_id" : 1317
+	},
+	{
+		"movie_id" : 702,
+		"company_id" : 6194
+	},
+	{
+		"movie_id" : 703,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 704,
+		"company_id" : 11506
+	},
+	{
+		"movie_id" : 704,
+		"company_id" : 3462
+	},
+	{
+		"movie_id" : 704,
+		"company_id" : 413
+	},
+	{
+		"movie_id" : 707,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 708,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 708,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 709,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 710,
+		"company_id" : 60
+	},
+	{
+		"movie_id" : 710,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 711,
+		"company_id" : 414
+	},
+	{
+		"movie_id" : 711,
+		"company_id" : 415
+	},
+	{
+		"movie_id" : 711,
+		"company_id" : 441
+	},
+	{
+		"movie_id" : 711,
+		"company_id" : 50830
+	},
+	{
+		"movie_id" : 712,
+		"company_id" : 10163
+	},
+	{
+		"movie_id" : 712,
+		"company_id" : 1382
+	},
+	{
+		"movie_id" : 712,
+		"company_id" : 181
+	},
+	{
+		"movie_id" : 713,
+		"company_id" : 14089
+	},
+	{
+		"movie_id" : 713,
+		"company_id" : 418
+	},
+	{
+		"movie_id" : 713,
+		"company_id" : 5186
+	},
+	{
+		"movie_id" : 713,
+		"company_id" : 7832
+	},
+	{
+		"movie_id" : 714,
+		"company_id" : 7576
+	},
+	{
+		"movie_id" : 744,
+		"company_id" : 4
+	},
+	{
+		"movie_id" : 745,
+		"company_id" : 158
+	},
+	{
+		"movie_id" : 745,
+		"company_id" : 17032
+	},
+	{
+		"movie_id" : 745,
+		"company_id" : 862
+	},
+	{
+		"movie_id" : 745,
+		"company_id" : 915
+	},
+	{
+		"movie_id" : 746,
+		"company_id" : 469
+	}
+]
